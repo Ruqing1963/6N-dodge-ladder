@@ -1,0 +1,8 @@
+parameter,value
+n^2+1_C_empirical,1.3763
+n^2+1_right_over_left,0.5002
+n^4+1_C_empirical,2.6764
+n^4+1_right_over_left,0.4987
+n^8+1_C_empirical,2.0753
+n^8+1_right_over_left,0.5167
+dodge_rule,"n^(2^k)+1 divisible only by q=2 or q=1 mod 2^(k+1), omega=2^k"
